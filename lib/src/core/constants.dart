@@ -1,0 +1,9 @@
+const int rowSize = 9;
+const int columnSize = 9;
+const int boardSize = rowSize * columnSize;
+const String digits = "123456789";
+const rows = "ABCDEFGHI"; 
+const cols = digits; 
+const List<String> rowSquares = ["ABC", "DEF", "GHI"];
+const List<String> colSquares = ["123", "456", "789"];
+const blankChar = "0";
